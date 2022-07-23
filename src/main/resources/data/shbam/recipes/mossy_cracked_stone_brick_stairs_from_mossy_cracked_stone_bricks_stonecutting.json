@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "shbam:mossy_cracked_stone_bricks"
+  },
+  "result": "shbam:mossy_cracked_stone_brick_stairs",
+  "count": 1
+}

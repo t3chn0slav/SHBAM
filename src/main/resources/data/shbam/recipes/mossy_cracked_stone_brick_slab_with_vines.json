@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "shbam:cracked_stone_brick_slab"
+    },
+    {
+      "item": "minecraft:vine"
+    }
+  ],
+  "result": {
+    "item": "shbam:mossy_cracked_stone_brick_slab",
+    "count": 1
+  }
+}

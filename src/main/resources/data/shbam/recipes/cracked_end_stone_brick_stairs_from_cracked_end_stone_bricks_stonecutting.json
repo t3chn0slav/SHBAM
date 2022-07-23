@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "shbam:cracked_end_stone_bricks"
+  },
+  "result": "shbam:cracked_end_stone_brick_stairs",
+  "count": 1
+}

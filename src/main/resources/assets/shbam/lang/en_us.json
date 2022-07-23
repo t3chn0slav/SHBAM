@@ -1,0 +1,53 @@
+{
+    "itemGroup.shbam.block_variations": "SHBAM",
+
+    "block.shbam.prismarine_brick_wall": "Prismarine Brick Wall",
+    "block.shbam.dark_prismarine_wall": "Dark Prismarine Wall",
+    "block.shbam.quartz_wall": "Quartz Wall",
+    "block.shbam.smooth_quartz_wall": "Smooth Quartz Wall",
+    "block.shbam.quartz_brick_wall": "Quartz Brick Wall",
+    "block.shbam.cracked_polished_blackstone_brick_wall": "Cracked Polished Blackstone Brick Wall",
+    "block.shbam.cracked_stone_brick_wall": "Cracked Stone Brick Wall",
+    "block.shbam.mossy_cracked_stone_brick_wall": "Cracked Mossy Stone Brick Wall",
+    "block.shbam.cracked_deepslate_brick_wall": "Cracked Deepslate Brick Wall",
+    "block.shbam.cracked_deepslate_tile_wall": "Cracked Deepslate Tile Wall",
+    "block.shbam.polished_granite_wall": "Polished Granite Wall",
+    "block.shbam.polished_diorite_wall": "Polished Diorite Wall",
+    "block.shbam.polished_andesite_wall": "Polished Andesite Wall",
+    "block.shbam.cracked_end_stone_brick_wall": "Cracked End Stone Brick Wall",
+
+    "block.shbam.cracked_polished_blackstone_brick_stairs": "Cracked Polished Blackstone Brick Stairs",
+    "block.shbam.cracked_stone_brick_stairs": "Cracked Stone Brick Stairs",
+    "block.shbam.mossy_cracked_stone_brick_stairs": "Cracked Mossy Stone Brick Stairs",
+    "block.shbam.cracked_end_stone_brick_stairs": "Cracked End Stone Brick Stairs",
+    "block.shbam.cracked_deepslate_brick_stairs": "Cracked Deepslate Brick Stairs",
+    "block.shbam.cracked_deepslate_tile_stairs": "Cracked Deepslate Tile Stairs",
+    "block.shbam.quartz_brick_stairs": "Quartz Brick Stairs",
+
+
+    "block.shbam.cracked_polished_blackstone_brick_slab": "Cracked Polished Blackstone Brick Slab",
+    "block.shbam.cracked_stone_brick_slab": "Cracked Stone Brick Slab",
+    "block.shbam.mossy_cracked_stone_brick_slab": "Cracked Mossy Stone Brick Slab",
+    "block.shbam.cracked_end_stone_brick_slab": "Cracked End Stone Brick Slab",
+    "block.shbam.cracked_deepslate_brick_slab": "Cracked Deepslate Brick Slab",
+    "block.shbam.cracked_deepslate_tile_slab": "Cracked Deepslate Tile Slab",
+    "block.shbam.quartz_brick_slab": "Quartz Brick Slab",
+
+
+    "block.shbam.mossy_cracked_stone_bricks": "Cracked Mossy Stone Bricks",
+    "block.shbam.cracked_end_stone_bricks": "Cracked End Stone Bricks",
+
+
+    "block.shbam.red_nether_brick_fence": "Red Nether Brick Fence",
+
+
+    "block.shbam.quartz_pressure_plate": "Quartz Pressure Plate",
+    "block.shbam.chiseled_quartz_pressure_plate": "Chiseled Quartz Pressure Plate",
+
+
+    "block.shbam.quartz_button": "Quartz Button",
+    "block.shbam.chiseled_quartz_button": "Chiseled Quartz Button",
+    "block.shbam.granite_button": "Granite Button",
+    "block.shbam.diorite_button": "Diorite Button",
+    "block.shbam.andesite_button": "Andesite Button"
+}

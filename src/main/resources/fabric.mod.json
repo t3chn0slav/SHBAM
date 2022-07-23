@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "shbam",
+  "version": "${version}",
+
+  "name": "SHBAM (Shouldn't Have Been A Mod)",
+  "description": "Adds Blocks To Minecraft That Should Already Be In The Vanilla Game",
+  "authors": [
+    "Technoslav"
+  ],
+  "contact": {
+    "homepage": "https://fabricmc.net/",
+    "sources": "https://github.com/FabricMC/fabric-example-mod"
+  },
+
+  "license": "MIT",
+  "icon": "assets/shbam/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.technoslav.shbam.MBV"
+    ]
+  },
+  "mixins": [
+    "shbam.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.14.6",
+    "fabric": "*",
+    "minecraft": "~1.19",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}

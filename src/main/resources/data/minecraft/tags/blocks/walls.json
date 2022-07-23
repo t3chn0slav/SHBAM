@@ -1,0 +1,19 @@
+{
+    "replace": false,
+    "values": [
+        "shbam:prismarine_brick_wall",
+        "shbam:dark_prismarine_wall",
+        "shbam:quartz_wall",
+        "shbam:smooth_quartz_wall",
+        "shbam:quartz_brick_wall",
+        "shbam:cracked_polished_blackstone_brick_wall",
+        "shbam:cracked_stone_brick_wall",
+        "shbam:mossy_cracked_stone_brick_wall",
+        "shbam:cracked_deepslate_brick_wall",
+        "shbam:cracked_deepslate_tile_wall",
+        "shbam:polished_granite_wall",
+        "shbam:polished_diorite_wall",
+        "shbam:polished_andesite_wall",
+        "shbam:cracked_end_stone_brick_wall"
+    ]
+}

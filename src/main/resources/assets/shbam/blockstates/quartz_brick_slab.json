@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "shbam:block/quartz_brick_slab"
+    },
+    "type=double": {
+      "model": "minecraft:block/quartz_bricks"
+    },
+    "type=top": {
+      "model": "shbam:block/quartz_brick_slab_top"
+    }
+  }
+}

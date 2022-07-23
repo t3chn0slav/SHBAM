@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "cookingtime": 200,
+  "experience": 0.1,
+  "ingredient": {
+    "item": "minecraft:end_stone_bricks"
+  },
+  "result": "shbam:cracked_end_stone_bricks"
+}

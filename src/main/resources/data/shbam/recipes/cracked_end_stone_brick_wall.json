@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "shbam:cracked_end_stone_bricks"
+    }
+  },
+  "result": {
+    "item": "shbam:cracked_end_stone_brick_wall",
+    "count": 6
+  }
+}

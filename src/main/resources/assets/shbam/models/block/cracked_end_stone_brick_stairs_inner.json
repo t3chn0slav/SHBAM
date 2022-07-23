@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "bottom": "shbam:block/cracked_end_stone_bricks",
+    "side": "shbam:block/cracked_end_stone_bricks",
+    "top": "shbam:block/cracked_end_stone_bricks"
+  }
+}

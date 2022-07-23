@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "shbam:block/quartz_pressure_plate"
+    },
+    "powered=true": {
+      "model": "shbam:block/quartz_pressure_plate_down"
+    }
+  }
+}

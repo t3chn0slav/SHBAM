@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/template_wall_post",
+  "textures": {
+    "wall": "shbam:block/mossy_cracked_stone_bricks"
+  }
+}

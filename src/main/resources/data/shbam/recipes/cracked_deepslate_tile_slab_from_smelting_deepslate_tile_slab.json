@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "cookingtime": 200,
+  "experience": 0.1,
+  "ingredient": {
+    "item": "minecraft:deepslate_tile_slab"
+  },
+  "result": "shbam:cracked_deepslate_tile_slab"
+}
